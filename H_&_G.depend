@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1625330224 source:c:\users\lenovo\documents\anyair\unsam\2do cuatrimestre\laboratorio ii\proyecto trabajo\h_&_g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Wonder_Cat.h"
+
+1625326861 c:\users\lenovo\documents\anyair\unsam\2do cuatrimestre\laboratorio ii\proyecto trabajo\h_&_g\wonder_cat.h
+
+1625328047 source:c:\users\lenovo\documents\anyair\unsam\2do cuatrimestre\laboratorio ii\proyecto trabajo\h_&_g\wonder_cat.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<math.h>
+	"Wonder_Cat.h"
+
